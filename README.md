@@ -1,0 +1,1 @@
+In this application i have configured Single Sign On with Google using omniauth in Ruby on Rails.
